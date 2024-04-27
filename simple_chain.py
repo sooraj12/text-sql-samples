@@ -1,5 +1,5 @@
 # generate query
-# generate response using query and schema
+# generate user response using query and schema
 # manually run the query
 
 from langchain_community.utilities import SQLDatabase
